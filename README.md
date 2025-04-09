@@ -1,9 +1,7 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 🤖 Machice Learning App 
 
-Description of the app ...
+
+This is Machice Learning App 
 
 ## Demo App
 
