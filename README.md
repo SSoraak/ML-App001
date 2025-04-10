@@ -21,3 +21,9 @@ This is filler text, please replace this with a explanatory text about further r
 - Resource 1
 - Resource 2
 - Resource 3
+
+## For Dev in Local
+In VSCode Command Palette Ctrl+Shift+P Dev 
+- Containers: Reopen in Container
+In Terminal
+- streamlit run streamlit_app.py
